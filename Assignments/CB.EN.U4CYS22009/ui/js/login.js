@@ -24,14 +24,14 @@ function validateForm() {
   function goToAnotherPage() 
   {
   // Redirect to the desired page
-  window.location.href = "forgot.html";
+  window.location.href = "../html/forgot.html";
 }
 function goToAnotherPage1() 
   {
   // Redirect to the desired page
-  window.location.href ="signup1.html";
+  window.location.href ="../html/signup1.html";
 }
 function goToAnotherPage2()
 {
-  window.location.href="../index.html";
+  window.location.href="../ui/index.html";
 }
